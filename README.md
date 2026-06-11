@@ -176,9 +176,6 @@ Add screenshots of your dashboard here after uploading them to GitHub.
 * Data Analyst Intern
 * Unified Mentor
 
-LinkedIn: *Add your LinkedIn profile URL*
-GitHub: *Add your GitHub profile URL*
-
 ---
 
 ## 📄 License
